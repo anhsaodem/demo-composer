@@ -1,0 +1,2 @@
+- Quản lý package
+- tải composer từ trang chủ

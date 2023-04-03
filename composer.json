@@ -1,0 +1,22 @@
+{
+    "name": "unicode/hoccomposer",
+    "description": "Deno learn composer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/",
+            "Core\\": "core/"
+
+        }
+    },
+    "authors": [
+        {
+            "name": "anhsaodem",
+            "email": "tranxuanhai2107@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.66",
+        "phpmailer/phpmailer": "^6.8"
+    }
+}
